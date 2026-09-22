@@ -63,7 +63,7 @@ Os dados utilizados são de **origem pública** e foram tratados exclusivamente 
 | [`data/01_BD_Logistica_dadosbrutos.csv`](data/01_BD_Logistica_dadosbrutos.csv) | Base de dados bruta, fonte original pública |
 | [`data/02_BD_Logistica_com_kpis_resumida_dados_tratados.csv`](data/02_BD_Logistica_com_kpis_resumida_dados_tratados.csv) | Base intermediária, tratada no Excel, com KPIs calculados para auditoria |
 | [`data/03_Dados_PowerBI_BD.csv`](data/03_Dados_PowerBI_BD.csv) | Extrato final, efetivamente consumido pelo modelo do Power BI |
-| `dashboard/` | Arquivo `.pbix` do dashboard — *em produção* |
+| [`dashboard/01_BD_Logistica_dashboard.pbix`](dashboard/01_BD_Logistica_dashboard.pbix) | Arquivo `.pbix` do dashboard — *em produção* |
 | Vídeo de apresentação | Gravação em áudio e tela do dashboard — *em produção* |
 
 ## Principais Achados
