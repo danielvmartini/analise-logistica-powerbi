@@ -103,7 +103,7 @@ Este projeto contou com o auxílio de ferramentas de IA generativa (**Claude, An
 ## Contato
 
 **Daniel V. Martini**
-📧 [seu e-mail aqui] · 💼 [seu LinkedIn aqui]
+📧 [danielvmartini@gmail.com] · 💼 [www.linkedin.com/in/danielvmartini]
 
 ---
 
