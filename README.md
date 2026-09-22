@@ -63,7 +63,7 @@ Os dados utilizados são de **origem pública** e foram tratados exclusivamente 
 | [`data/01_BD_Logistica_dadosbrutos.csv`](data/01_BD_Logistica_dadosbrutos.csv) | Base de dados bruta, fonte original pública |
 | [`data/02_BD_Logistica_com_kpis_resumida_dados_tratados.csv`](data/02_BD_Logistica_com_kpis_resumida_dados_tratados.csv) | Base intermediária, tratada no Excel, com KPIs calculados para auditoria |
 | [`data/03_Dados_PowerBI_BD.csv`](data/03_Dados_PowerBI_BD.csv) | Extrato final, efetivamente consumido pelo modelo do Power BI |
-| [`dashboard/01_BD_Logistica_dashboard.pbix`](dashboard/01_BD_Logistica_dashboard.pbix) | Arquivo `.pbix` do dashboard |
+| [`dashboard/01_BD_Logistica_dashboard.pbix`](dashboard/01_BD_Logistica_dashboard.pbix) | Arquivo `.pbix` do dashboard — abra no Power BI Desktop para navegação interativa |
 | Vídeo de apresentação | Gravação em áudio e tela do dashboard — *em produção* |
 
 ## Principais Achados
@@ -94,7 +94,8 @@ Os dados utilizados são de **origem pública** e foram tratados exclusivamente 
 2. Leia o **[Resumo Executivo](docs/02_Resumo_Relatorio_Analise_Logistica.pdf)** para uma visão rápida dos números e recomendações.
 3. Aprofunde-se no **[Relatório Completo](docs/03_Relatorio_Analise_Logistica_BD.pdf)** para metodologia, causas raiz e plano de ação detalhado.
 4. Explore os arquivos em `data/` para acompanhar o pipeline: dado bruto → tratamento com KPIs → extrato consumido pelo modelo.
-5. (Em breve) Abra o `.pbix` em `dashboard/` no Power BI Desktop para navegação interativa, ou assista ao vídeo de apresentação.
+5. Abra o [`.pbix`](dashboard/01_BD_Logistica_dashboard.pbix) no Power BI Desktop para navegação interativa pelo dashboard completo.
+6. (Em breve) Assista ao vídeo de apresentação com a narrativa dos principais achados.
 
 ## Nota Metodológica — Uso de IA Generativa
 
